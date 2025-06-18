@@ -1,0 +1,56 @@
+@import url(base/typography.css);
+@import url(base/utilities.css);
+@import url(base/variables.css);
+
+@import url(components/animations.css);
+@import url(components/buttons.css);
+@import url(components/slider.css);
+
+@import url(layout/aside.css);
+@import url(layout/footer.css);
+@import url(layout/header.css);
+
+@import url(pages/home.css);
+@import url(pages/contact.css);
+@import url(pages/about.css);
+
+/* Reset values */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+img,
+picture,
+svg,
+video,
+canvas {
+  max-width: 100%;
+  height: auto;
+}
+
+/*missing alt attribute*/
+img:not([alt]) {
+  outline-offset: 0.5rem;
+  outline: 0.5rem dashed red;
+}
+
+/*empty alt attribute*/
+img[alt=""] {
+  outline-offset: 1.5rem;
+  outline: 0.5rem solid blue;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
