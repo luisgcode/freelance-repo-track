@@ -2,7 +2,7 @@
 
 NeuroVet.cl
 
-Job done today:
+Job done:
 
 18-06-2025
 
@@ -12,3 +12,8 @@ Job done today:
 - Install external resources
 - Adjusting logo from PNG to SVG (vector)
 - Collect client social information
+
+20-06-2025
+
+- Installing Slider Revolution & configure it
+-
