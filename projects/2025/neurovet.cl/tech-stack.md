@@ -1,3 +1,0 @@
-# Project Title
-
-Global Technologies
