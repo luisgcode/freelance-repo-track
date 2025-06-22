@@ -50,4 +50,9 @@
 ### 20-06-2025
 
 - Installing Slider Revolution & configure it
--
+
+### 21-06-2025
+
+- Start process of collecting client images and information about the company they didn't provide at the beginning.
+- Define colors and fonts
+- Start creating veterinary center's section
