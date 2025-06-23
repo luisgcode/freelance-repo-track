@@ -56,3 +56,8 @@
 - Start process of collecting client images and information about the company they didn't provide at the beginning.
 - Define colors and fonts
 - Start creating veterinary center's section
+
+### 22-06-2025
+
+- Adding customized code to fix all the problems related to the header and slider revolution plugin.
+- Finished the hero section, working on the schedules section
