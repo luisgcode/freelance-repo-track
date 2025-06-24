@@ -61,3 +61,9 @@
 
 - Adding customized code to fix all the problems related to the header and slider revolution plugin.
 - Finished the hero section, working on the schedules section
+
+### 22-06-2025
+
+- Install and configuration Bookly plugin, collecting client's information for schedules.
+- Set up gateway payment for book appointments
+- Change of Accent color decision along with the client, explaining why this new accent color is a good fit, more neutral and work better with the brand's main color
